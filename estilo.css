@@ -1,0 +1,22 @@
+#cadastro{
+    border:solid;
+    height:480px;
+    width:600px;
+    float:left;
+    border-color:lawngreen;
+    margin-right:50px;
+    background-color:honeydew; 
+}
+#exibe{
+    border:solid;
+    height:480px;
+    width:600px;
+    border-color:lawngreen;
+    float:right;
+    background-color: gainsboro;
+    
+}
+.botoes{
+    height:50px;
+    width:100px;
+}
